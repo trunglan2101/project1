@@ -5,26 +5,29 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+- Ruby version
 
-* System dependencies
+- System dependencies
 
-* Configuration
+- Configuration
 
-* Database creation
+- Database creation
 
-* Database initialization
+- Database initialization
 
-* How to run the test suite
+- How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+- Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+- Deployment instructions
 
-* ...
-da xoa
-git@github.com:trunglan2101/project1.gitgit@github.com:trunglan2101/project1.git
-git@github.com:trunglan2101/project1.git
-git@github.com:trunglan2101/project1.git
-git@github.com:trunglan2101/project1.git
-git@github.com:trunglan2101/project1.git
+- ...
+  da xoa
+  git@github.com:trunglan2101/project1.gitgit@github.com:trunglan2101/project1.git
+  git@github.com:trunglan2101/project1.git
+  git@github.com:trunglan2101/project1.git
+  git@github.com:trunglan2101/project1.git
+  git@github.com:trunglan2101/project1.git
+
+du an thucj nghiem
+du an hucj nghiem
